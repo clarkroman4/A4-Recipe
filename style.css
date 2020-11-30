@@ -1,0 +1,47 @@
+*{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: wheat;
+
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color: rgb(48, 6, 6);
+}
+
+header {
+    font-size: large;
+}
+ul li{
+    list-style-type: square;
+}
+
+img {
+    max-width: 350px;
+    border-color: brown;
+    border-radius: 5%;
+}
+
+.title {
+    font-size: 16px;
+}
+
+#instructions #ingredients{
+    display: block;
+    background-color:rgb(196, 179, 149)
+}
+
+.link {
+    font-style: bold;
+}
+
+.aside {
+    font-style: italic;
+    font-size: 10px;
+}
