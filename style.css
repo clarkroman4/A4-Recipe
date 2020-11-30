@@ -1,5 +1,5 @@
-*{
-    
+body {
+    display: block;
     margin-left: 10%;
     margin-right: 10%;
     padding: 10px;
@@ -32,16 +32,21 @@ img {
     font-size: 16px;
 }
 
-#instructions #ingredients{
-    display: block;
-    background-color:rgb(196, 179, 149)
+#Instructions{
+    line-break: strict;
+}
+#Instructions #Ingredients{
+    border: 1px solid #000000;
+
 }
 
 .link {
-    font-style: bold;
+    color: blue;
+    font-size: 10px;
 }
 
 .aside {
+    color: brown;
     font-style: italic;
     font-size: 10px;
 }
